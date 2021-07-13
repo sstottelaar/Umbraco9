@@ -1,0 +1,4 @@
+## Ignoring all Umbraco files
+bin/
+umbraco/
+obj/Debug
